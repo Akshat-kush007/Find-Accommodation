@@ -1,6 +1,6 @@
 #backend
 backend/.env
-backend/node_modules
+backend/node_modulesit 
 
 # Logs
 logs

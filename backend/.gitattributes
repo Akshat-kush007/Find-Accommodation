@@ -1,0 +1,7 @@
+# Force consistent line endings
+* text=auto
+
+# Set specific types if needed
+*.js text
+*.json text
+*.env text
