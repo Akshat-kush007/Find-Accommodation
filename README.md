@@ -43,12 +43,31 @@ Users can sign up, search AI-curated PG listings, add new PGs, and manage their 
 <table>
   <tr>
     <td>
-      <a href="https://link-to-image1.com">
-        <img src="https://github.com/Akshat-kush007/Weather-App/blob/main/assets/video.gif" width="200"/>
-      </a>
+        <img src="https://github.com/Akshat-kush007/Find-Accommodation/blob/main/screenshots/home.png" width="500"/>
     </td>
     <td>
-        <img src="https://github.com/Akshat-kush007/Weather-App/blob/main/assets/video.gif" width="200"/>
+        <img src="https://github.com/Akshat-kush007/Find-Accommodation/blob/main/screenshots/signup1.png" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://github.com/Akshat-kush007/Find-Accommodation/blob/main/screenshots/login.png" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://github.com/Akshat-kush007/Find-Accommodation/blob/main/screenshots/dashboard.png" width="500"/>
+    </td>
+    <td>
+        <img src="https://github.com/Akshat-kush007/Find-Accommodation/blob/main/screenshots/accommodation.png" width="500"/>
+    </td>
+    <td>
+        <img src="https://github.com/Akshat-kush007/Find-Accommodation/blob/main/screenshots/favourites.png" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://github.com/Akshat-kush007/Find-Accommodation/blob/main/screenshots/ai.png" width="500"/>
     </td>
   </tr>
 </table>
@@ -60,7 +79,7 @@ Users can sign up, search AI-curated PG listings, add new PGs, and manage their 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/find-accommodation.git
+git clone https://github.com/Akshat-kush007/Find-Accommodation
 cd find-accommodation
 ```
 
