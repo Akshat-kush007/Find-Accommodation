@@ -214,7 +214,7 @@ find-accommodation/
 
 ## 👨‍💼 Author
 
-**Your Name** – [@yourgithub](https://github.com/Akshat-kush007)
+**Aksat Kushwah** – [@akshatkushgithub](https://github.com/Akshat-kush007)
 Feel free to reach out for collaboration or questions!
 
 ---
